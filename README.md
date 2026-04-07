@@ -1,5 +1,5 @@
 <img width="1037" height="517" alt="hr dasboard png" src="https://github.com/user-attachments/assets/c74508c1-67d8-43be-a183-93e580457b71" />
-<img width="1366" height="768" alt="Screenshot 2026-04-07 202417" src="https://github.com/user-attachments/assets/5de33abb-13e4-4a5a-b020-2148585a6dd0" />
+
 Project Title
 
 HR Analytics Dashboard – Excel
